@@ -1,2 +1,2 @@
-# shop
-shop
+# online-shop-website-template
+ shop
